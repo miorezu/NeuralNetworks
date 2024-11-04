@@ -166,3 +166,6 @@ cython_debug/
 /FirstTaskVectors/.idea
 FirstTaskVectors/.idea/vcs.xml
 FirstTaskVectors/.idea/vcs.xml
+/Pr2/.idea
+Pr2/pyproject.toml
+Pr2/poetry.lock
